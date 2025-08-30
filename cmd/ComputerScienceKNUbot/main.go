@@ -9,9 +9,9 @@ import (
 	"github.com/jmoiron/sqlx"
 	"github.com/mymmrac/telego"
 	th "github.com/mymmrac/telego/telegohandler"
-	handlers "github.com/yanferens/StarHelperBot/internal/handler"
-	repository "github.com/yanferens/StarHelperBot/internal/repository"
-	service "github.com/yanferens/StarHelperBot/internal/service"
+	handlers "github.com/yanferens/ComputerScienceKNUbot/internal/handler"
+	service "github.com/yanferens/ComputerScienceKNUbot/internal/service"
+	repository "github.com/yanferensComputerScienceKNUbot/internal/repository"
 )
 
 func main() {
